@@ -20,7 +20,6 @@ const About = ({ data: { about } }) => (
             __html: about.bioNode.childMarkdownRemark.html,
           }}
         />
-        yooo
       </div>
     </article>
   </Layout>
