@@ -74,7 +74,7 @@ const TemplateWrapper = ({ children }) => (
               > </a>
             ))}
           </p>
-          <p>suh</p>
+          <p>suhdude</p>
           <div className="sidebar__copyright">{data.datoCmsHome.copyright}</div>
         </div>
       </div>
